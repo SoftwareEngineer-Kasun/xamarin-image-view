@@ -1,0 +1,6 @@
+<ImageView 
+      android:id = "@+id/ImageView1" 
+      android:scaleType = "matrix" 
+      android:layout_height = "fill_parent" 
+      android:layout_width = "fill_parent" 
+      android:src = "@drawable/img1" /> 
